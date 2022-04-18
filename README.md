@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=DH&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=My Blog&theme=dark)](https://june-17.tistory.com/)
