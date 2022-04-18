@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 <a href="https://june-17.tistory.com/">My Blog</a>
