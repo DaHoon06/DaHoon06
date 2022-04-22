@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=37C038FD&lines=Hello+World)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahoon06&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahoon06&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
   🌱 Tech Staks
