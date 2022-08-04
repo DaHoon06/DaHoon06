@@ -30,6 +30,8 @@
   </span>
 </p> -->
 
+t-story: <a href="https://june-17.tistory.com/">바로가기</a>
+github blog: <a href="https://dahoon06.github.io/">바로가기</a>
 
 
 
