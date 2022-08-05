@@ -30,8 +30,13 @@
   </span>
 </p> -->
 
-t-story: <a href="https://june-17.tistory.com/">바로가기</a>
-github blog: <a href="https://dahoon06.github.io/">바로가기</a>
 
 
-
+<p align="center">
+  <a href="https://june-17.tistory.com/">
+    <img src="https://user-images.githubusercontent.com/76781436/182974672-fb69257a-c88c-42b9-84b4-a9cbbe704cf4.png" alt="t-story" width=30 />
+  </a>
+  <a href="https://dahoon06.github.io/">
+    <img src="https://user-images.githubusercontent.com/76781436/182974280-513db3d9-29ed-4b4b-8fc1-11cc6ff2e029.png" alt="github" width=30 />
+  </a>
+</p>
