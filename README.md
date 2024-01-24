@@ -1,10 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=17&height=200&section=header&text=DaHoon%20GitHub&animation=twinkling&fontAlign=70&stroke=10&rotate=12&fontSize=50&fontAlignY=40&fontColor=656565" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=37C038FD&lines=Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=37C038FD&lines=Hello+World+⏎+ENTER)](https://git.io/typing-svg)
+
+### 안녕하세요. Node.js 개발자 전다훈 입니다.
+
+좀 더 괜찮은 개발자가 되기 위해 꾸준히 노력하고 있습니다.
+
+Contact Email: dahoon226@gmail.com
+
 
 <section align="center">
-  📚 <b>Tech Stack<b/> 📚
-  
+  📚 <b>Tech Stack<b/> 📚  
   <br /><br />
   
   <div>
