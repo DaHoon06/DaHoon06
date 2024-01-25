@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=37C038FD&lines=Hello+World+⏎+ENTER)](https://git.io/typing-svg)
 
-### 안녕하세요. 좀 더 괜찮은 개발자가 되기 위해 꾸준히 노력 Node.js 개발자 전다훈 입니다.
+### 안녕하세요. 좀 더 괜찮은 개발자가 되기 위해 꾸준히 노력하는 Node.js 개발자 전다훈 입니다.
 
 Email: dahoon226@gmail.com
 
