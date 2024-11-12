@@ -1,8 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=17&height=200&section=header&text=DaHoon%20GitHub&animation=twinkling&fontAlign=70&stroke=10&rotate=12&fontSize=50&fontAlignY=40&fontColor=656565" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=17&height=200&section=header&text=DaHoon06%20GitHub&animation=twinkling&fontAlign=70&stroke=10&rotate=12&fontSize=50&fontAlignY=40&fontColor=656565" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=37C038FD&lines=Hello+World+⏎+ENTER)](https://git.io/typing-svg)
 
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/DaHoon06"
+  width="600"
+  height="300"
+/>
+</a>
+
+### Contact
+
 Email: dahoon226@gmail.com
+
+
+
+
+
 
 
 <section align="center">
